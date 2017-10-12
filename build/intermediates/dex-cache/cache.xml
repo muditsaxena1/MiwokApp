@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\Downloads\ud839_Miwok-Starter-code\Miwok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Mudit\Downloads\ud839_Miwok-Starter-code\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6dcefca44ff63182b7998094d691dd63fa56ecce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\Downloads\ud839_Miwok-Starter-code\Miwok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1f3bfc3bb27f720c9dba857b63a1954f3c37b4a">
+        <dex dex="C:\Users\Mudit\Downloads\ud839_Miwok-Starter-code\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a6b91c234e2a31b229d660ebc1627d9f48366a1d\classes.dex" />
+    </item>
+
+</items>

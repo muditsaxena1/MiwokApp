@@ -1,0 +1,7 @@
+#Sun Jul 16 00:07:53 IST 2017
+base.0=C\:\\Users\\Mudit\\Downloads\\ud839_Miwok-Starter-code\\Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dcefca44ff63182b7998094d691dd63fa56ecce
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Mudit\\Downloads\\ud839_Miwok-Starter-code\\Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a6b91c234e2a31b229d660ebc1627d9f48366a1d\\classes.dex
+base.1=C\:\\Users\\Mudit\\Downloads\\ud839_Miwok-Starter-code\\Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a6b91c234e2a31b229d660ebc1627d9f48366a1d
+file.0=C\:\\Users\\Mudit\\Downloads\\ud839_Miwok-Starter-code\\Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dcefca44ff63182b7998094d691dd63fa56ecce\\classes.dex
